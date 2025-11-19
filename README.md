@@ -70,5 +70,5 @@ npm run dev
 ## 👤 Автор
 
 **DamirMedia**\
-GitHub: https://github.com/zver1k\
+GitHub: https://github.com/zver1k
 Telegram: https://t.me/DamirMedia
