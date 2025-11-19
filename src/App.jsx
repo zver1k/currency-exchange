@@ -72,7 +72,9 @@ function App() {
   return (
     <div className="app">
       <h1>Калькулятор обмена валюты</h1>
-
+      {dataLoading && (
+        <p className="loading">Загрузка списка валют...</p>
+      )}
       {!dataLoading && (
         <div className="converter-container">
           {error && (<p className="error">{error}</p>)}
