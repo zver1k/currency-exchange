@@ -1,11 +1,10 @@
 # 💱 Конвертер валют (React)
 
-::: {align="center"}
-`<img src="https://img.shields.io/badge/React-v18-blue?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />`{=html}
-:::
-
+<div align="center">
+  <img src="https://img.shields.io/badge/React-v18-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</div>
 ------------------------------------------------------------------------
 
 Простой и аккуратный конвертер валют на React с ручным запуском расчёта
@@ -16,12 +15,12 @@
 
 ## 🚀 Возможности
 
--   выбор валюты\
--   ввод суммы\
--   проверка корректности данных\
--   запрет конвертации одинаковых валют\
--   индикаторы загрузки\
--   обработка ошибок сервера\
+-   выбор валюты
+-   ввод суммы
+-   проверка корректности данных
+-   запрет конвертации одинаковых валют
+-   индикаторы загрузки
+-   обработка ошибок сервера
 -   загрузка списка валют при старте приложения
 
 ------------------------------------------------------------------------
@@ -39,8 +38,8 @@
 ## 📦 Установка и запуск
 
 ``` bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/zver1k/currency-exchange.git
+cd currency-exchange
 npm install
 npm run dev
 ```
